@@ -17,3 +17,4 @@ export default {
     await fetch(url);
   },
 };
+
